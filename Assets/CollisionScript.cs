@@ -8,12 +8,15 @@ public class CollisionScript : MonoBehaviour
     public static GameObject thePlayer2;
     public static GameObject redBall;
     public static float timeRemaining = 0;
+    public static float timeRemaining1 = 0;
+    //public static Vector2 originalScale;
     // Start is called before the first frame update
     void Start()
     {
         thePlayer = GameObject.FindGameObjectWithTag("Player");
         thePlayer2 = GameObject.FindGameObjectWithTag("Player2");
         redBall = GameObject.FindGameObjectWithTag("BallRed");
+        //originalScale = thePlayer.transform.localScale;
     }
 
     // Update is called once per frame
@@ -25,7 +28,15 @@ public class CollisionScript : MonoBehaviour
         }
         else{
           thePlayer.SetActive(true);
+
        }
+    //    if (timeRemaining1 > 0)
+    //     {
+    //         timeRemaining1 -= Time.deltaTime;
+    //     }
+    //     else{
+    //       thePlayer.gameObject.transform.localScale = originalScale;
+    //    }
     
     }
 
@@ -33,7 +44,9 @@ public class CollisionScript : MonoBehaviour
     public void OnCollisionEnter2D(Collision2D col){
         if(col.collider.tag == "BallRed"){
             timeRemaining = 1.5f;
+            //timeRemaining1 = 2;
             redBall.SetActive(false);
+            //thePlayer.gameObject.transform.localScale += new Vector3(2, 2, 2);
            
         }
     }
