@@ -13,63 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-01-15T20:44:45.918-05:00
-  initializedAtString: 2021-01-15T19:20:35.877-05:00
+  lastUpdatedAtString: 2021-01-15T20:56:32.746-05:00
+  initializedAtString: 2021-01-15T20:53:03.030-05:00
   entries:
-  - path: Assets/BallControl.cs
-    fullPath: /Users/bolahenine/FirstGame/Assets/BallControl.cs
-    projectPath: Assets/BallControl.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/CollisionScript.cs
-    fullPath: /Users/bolahenine/FirstGame/Assets/CollisionScript.cs
-    projectPath: Assets/CollisionScript.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/CollisionScript1.cs
-    fullPath: /Users/bolahenine/FirstGame/Assets/CollisionScript1.cs
-    projectPath: Assets/CollisionScript1.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Assets/GreenBallManager.cs
     fullPath: /Users/bolahenine/FirstGame/Assets/GreenBallManager.cs
     projectPath: Assets/GreenBallManager.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/GreenBallManager.cs.meta
-    fullPath: /Users/bolahenine/FirstGame/Assets/GreenBallManager.cs.meta
-    projectPath: Assets/GreenBallManager.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/RedBallManager.cs
-    fullPath: /Users/bolahenine/FirstGame/Assets/RedBallManager.cs
-    projectPath: Assets/RedBallManager.cs
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets/SideWalls.cs
-    fullPath: /Users/bolahenine/FirstGame/Assets/SideWalls.cs
-    projectPath: Assets/SideWalls.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/unity-pong-assets/Ball 2.png
-    fullPath: /Users/bolahenine/FirstGame/Assets/unity-pong-assets/Ball 2.png
-    projectPath: Assets/unity-pong-assets/Ball 2.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/unity-pong-assets/Ball 2.png.meta
-    fullPath: /Users/bolahenine/FirstGame/Assets/unity-pong-assets/Ball 2.png.meta
-    projectPath: Assets/unity-pong-assets/Ball 2.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library/ArtifactDB
     fullPath: /Users/bolahenine/FirstGame/Library/ArtifactDB
     projectPath: Library/ArtifactDB
@@ -80,53 +32,41 @@ MonoBehaviour:
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/01/01c0dc50d033d89532fdb2e7dc455d5b
     projectPath: Library/Artifacts/01/01c0dc50d033d89532fdb2e7dc455d5b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/07/0796a1ed286c0f69a09182de5a129312
-    fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/07/0796a1ed286c0f69a09182de5a129312
-    projectPath: Library/Artifacts/07/0796a1ed286c0f69a09182de5a129312
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/08/08b3fe9d7172a30cddc58bf66436c361
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/08/08b3fe9d7172a30cddc58bf66436c361
     projectPath: Library/Artifacts/08/08b3fe9d7172a30cddc58bf66436c361
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/0a/0afce21de63db2dfc09472560116efa3
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/0a/0afce21de63db2dfc09472560116efa3
     projectPath: Library/Artifacts/0a/0afce21de63db2dfc09472560116efa3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/0b/0bf9cbcf80bccfc3e26b78d536862966
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/0b/0bf9cbcf80bccfc3e26b78d536862966
     projectPath: Library/Artifacts/0b/0bf9cbcf80bccfc3e26b78d536862966
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/0d/0ddc79fbbb4ccc6afc1390c470cb5ee2
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/0d/0ddc79fbbb4ccc6afc1390c470cb5ee2
     projectPath: Library/Artifacts/0d/0ddc79fbbb4ccc6afc1390c470cb5ee2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/11/1142b4eda59c6e1d43d584aeb78e1132
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/11/1142b4eda59c6e1d43d584aeb78e1132
     projectPath: Library/Artifacts/11/1142b4eda59c6e1d43d584aeb78e1132
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/18/1874e64464289f549cf317eb94cca244
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/18/1874e64464289f549cf317eb94cca244
     projectPath: Library/Artifacts/18/1874e64464289f549cf317eb94cca244
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/19/194163ce64e596329f6e7246bda57e75
-    fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/19/194163ce64e596329f6e7246bda57e75
-    projectPath: Library/Artifacts/19/194163ce64e596329f6e7246bda57e75
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -134,179 +74,173 @@ MonoBehaviour:
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/1a/1adf4abe01619d55187eee85bc41e947
     projectPath: Library/Artifacts/1a/1adf4abe01619d55187eee85bc41e947
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/1d/1de2e5537f9af6101f0f3caf41dba800
-    fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/1d/1de2e5537f9af6101f0f3caf41dba800
-    projectPath: Library/Artifacts/1d/1de2e5537f9af6101f0f3caf41dba800
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/1e/1e1a516abda8a909d86285876a69a57a
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/1e/1e1a516abda8a909d86285876a69a57a
     projectPath: Library/Artifacts/1e/1e1a516abda8a909d86285876a69a57a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/24/240a7932bfcf12ea9139c670af5df80f
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/24/240a7932bfcf12ea9139c670af5df80f
     projectPath: Library/Artifacts/24/240a7932bfcf12ea9139c670af5df80f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/24/24146436eade719ebf4d8ccd7f945350
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/24/24146436eade719ebf4d8ccd7f945350
     projectPath: Library/Artifacts/24/24146436eade719ebf4d8ccd7f945350
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/25/25539765ae291ff9885d460d74b0ddaf
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/25/25539765ae291ff9885d460d74b0ddaf
     projectPath: Library/Artifacts/25/25539765ae291ff9885d460d74b0ddaf
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/26/26291e0cd24f41545770f910df0eb10f
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/26/26291e0cd24f41545770f910df0eb10f
     projectPath: Library/Artifacts/26/26291e0cd24f41545770f910df0eb10f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/29/2973c62222bdbee177bdf630575999a2
-    fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/29/2973c62222bdbee177bdf630575999a2
-    projectPath: Library/Artifacts/29/2973c62222bdbee177bdf630575999a2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/2a/2ab5213d2832989b505f031af3763608
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/2a/2ab5213d2832989b505f031af3763608
     projectPath: Library/Artifacts/2a/2ab5213d2832989b505f031af3763608
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/2a/2ad98c1bb83fc34afa6b9f38b61d2372
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/2a/2ad98c1bb83fc34afa6b9f38b61d2372
     projectPath: Library/Artifacts/2a/2ad98c1bb83fc34afa6b9f38b61d2372
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/2d/2d2238f6ed543a04e1780b7ce6be8683
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/2d/2d2238f6ed543a04e1780b7ce6be8683
     projectPath: Library/Artifacts/2d/2d2238f6ed543a04e1780b7ce6be8683
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/33/333bd67d7f549a48a5aee0bad2152aea
-    fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/33/333bd67d7f549a48a5aee0bad2152aea
-    projectPath: Library/Artifacts/33/333bd67d7f549a48a5aee0bad2152aea
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/3d/3d5da06b24284da1de7d2413ee0098c4
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/3d/3d5da06b24284da1de7d2413ee0098c4
     projectPath: Library/Artifacts/3d/3d5da06b24284da1de7d2413ee0098c4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/3e/3e0aefe95a95e7f989d52ef0d7fe7fd7
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/3e/3e0aefe95a95e7f989d52ef0d7fe7fd7
     projectPath: Library/Artifacts/3e/3e0aefe95a95e7f989d52ef0d7fe7fd7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/41/4174791bf05e3d62f81e7246e29dbc7a
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/41/4174791bf05e3d62f81e7246e29dbc7a
     projectPath: Library/Artifacts/41/4174791bf05e3d62f81e7246e29dbc7a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/43/4371d70f44cd96dc87a3337d43757387
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/43/4371d70f44cd96dc87a3337d43757387
     projectPath: Library/Artifacts/43/4371d70f44cd96dc87a3337d43757387
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/43/43fb92163858e7853da08c296342c61d
+    fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/43/43fb92163858e7853da08c296342c61d
+    projectPath: Library/Artifacts/43/43fb92163858e7853da08c296342c61d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/44/4488747d44c10e1547ee3fa38b69d6e2
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/44/4488747d44c10e1547ee3fa38b69d6e2
     projectPath: Library/Artifacts/44/4488747d44c10e1547ee3fa38b69d6e2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/44/449cb5abf9d397d6f45099268f98f4b1
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/44/449cb5abf9d397d6f45099268f98f4b1
     projectPath: Library/Artifacts/44/449cb5abf9d397d6f45099268f98f4b1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/46/46e02e439f05aa8f235cec275e4365e3
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/46/46e02e439f05aa8f235cec275e4365e3
     projectPath: Library/Artifacts/46/46e02e439f05aa8f235cec275e4365e3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/47/4749da268dd3a7cfbdd4943342d62397
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/47/4749da268dd3a7cfbdd4943342d62397
     projectPath: Library/Artifacts/47/4749da268dd3a7cfbdd4943342d62397
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/49/499c7819ed381181045f00de2a41c4ae
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/49/499c7819ed381181045f00de2a41c4ae
     projectPath: Library/Artifacts/49/499c7819ed381181045f00de2a41c4ae
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/4c/4c85a045773e7d3afc5a7f2916e0acae
+    fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/4c/4c85a045773e7d3afc5a7f2916e0acae
+    projectPath: Library/Artifacts/4c/4c85a045773e7d3afc5a7f2916e0acae
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/52/5232c644a7e57d35971ea2f070567a08
+    fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/52/5232c644a7e57d35971ea2f070567a08
+    projectPath: Library/Artifacts/52/5232c644a7e57d35971ea2f070567a08
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/58/586e84e69e198f6a915e2a4cfe81866b
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/58/586e84e69e198f6a915e2a4cfe81866b
     projectPath: Library/Artifacts/58/586e84e69e198f6a915e2a4cfe81866b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/5d/5d44f58d3a400aaf81f0e08a34c6ddb1
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/5d/5d44f58d3a400aaf81f0e08a34c6ddb1
     projectPath: Library/Artifacts/5d/5d44f58d3a400aaf81f0e08a34c6ddb1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/60/606926899ed9ddfc60d27aaf8bc12b98
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/60/606926899ed9ddfc60d27aaf8bc12b98
     projectPath: Library/Artifacts/60/606926899ed9ddfc60d27aaf8bc12b98
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/60/60bd1556f604457d5169cf699ea47323
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/60/60bd1556f604457d5169cf699ea47323
     projectPath: Library/Artifacts/60/60bd1556f604457d5169cf699ea47323
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/61/61fe0a6da646243f2518a70cdc728122
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/61/61fe0a6da646243f2518a70cdc728122
     projectPath: Library/Artifacts/61/61fe0a6da646243f2518a70cdc728122
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/63/6362aabbe3c3d24050eea6221a63985f
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/63/6362aabbe3c3d24050eea6221a63985f
     projectPath: Library/Artifacts/63/6362aabbe3c3d24050eea6221a63985f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/68/68e1a994c45e728a80ffeb68f5b01f6f
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/68/68e1a994c45e728a80ffeb68f5b01f6f
     projectPath: Library/Artifacts/68/68e1a994c45e728a80ffeb68f5b01f6f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/6a/6a04df8190525277f8f0ffbe36863652
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/6a/6a04df8190525277f8f0ffbe36863652
     projectPath: Library/Artifacts/6a/6a04df8190525277f8f0ffbe36863652
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/6a/6a8da04982ad0a7066c451fba48e72ec
-    fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/6a/6a8da04982ad0a7066c451fba48e72ec
-    projectPath: Library/Artifacts/6a/6a8da04982ad0a7066c451fba48e72ec
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -314,23 +248,11 @@ MonoBehaviour:
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/6b/6b23305902f1f9628db8981f608051b2
     projectPath: Library/Artifacts/6b/6b23305902f1f9628db8981f608051b2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/6b/6bb5d83a5ca5d3e77be7afeef0d065f3
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/6b/6bb5d83a5ca5d3e77be7afeef0d065f3
     projectPath: Library/Artifacts/6b/6bb5d83a5ca5d3e77be7afeef0d065f3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/76/76aa1898358abc8be21dc3f229fe53c3
-    fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/76/76aa1898358abc8be21dc3f229fe53c3
-    projectPath: Library/Artifacts/76/76aa1898358abc8be21dc3f229fe53c3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/77/772103bf7f00ccd008e0bef0aa847859
-    fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/77/772103bf7f00ccd008e0bef0aa847859
-    projectPath: Library/Artifacts/77/772103bf7f00ccd008e0bef0aa847859
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -338,23 +260,11 @@ MonoBehaviour:
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/78/786097f9c46f2ae2d99faee00d4a2d4d
     projectPath: Library/Artifacts/78/786097f9c46f2ae2d99faee00d4a2d4d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/79/79f11b40203f5be94c0b0b4f0056681c
-    fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/79/79f11b40203f5be94c0b0b4f0056681c
-    projectPath: Library/Artifacts/79/79f11b40203f5be94c0b0b4f0056681c
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
   - path: Library/Artifacts/7b/7b4c91a32a6468e58d24be18acce44be
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/7b/7b4c91a32a6468e58d24be18acce44be
     projectPath: Library/Artifacts/7b/7b4c91a32a6468e58d24be18acce44be
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/7b/7b9c7b4f85c6a169555fff9c59cd97af
-    fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/7b/7b9c7b4f85c6a169555fff9c59cd97af
-    projectPath: Library/Artifacts/7b/7b9c7b4f85c6a169555fff9c59cd97af
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -362,71 +272,71 @@ MonoBehaviour:
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/7c/7c233e2fc374d383bac8429f43caefef
     projectPath: Library/Artifacts/7c/7c233e2fc374d383bac8429f43caefef
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/80/80eaf90ce147dfe83006249378ca604b
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/80/80eaf90ce147dfe83006249378ca604b
     projectPath: Library/Artifacts/80/80eaf90ce147dfe83006249378ca604b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/85/85f9e7735749c30cd3993ad056fc96a3
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/85/85f9e7735749c30cd3993ad056fc96a3
     projectPath: Library/Artifacts/85/85f9e7735749c30cd3993ad056fc96a3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/89/899245c1708f7f2086c8da976babfdbf
+    fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/89/899245c1708f7f2086c8da976babfdbf
+    projectPath: Library/Artifacts/89/899245c1708f7f2086c8da976babfdbf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/89/89ba9e31ae01430e13b186e9db4a48da
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/89/89ba9e31ae01430e13b186e9db4a48da
     projectPath: Library/Artifacts/89/89ba9e31ae01430e13b186e9db4a48da
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/8a/8ae92c4d4124559ff7accea4530d1303
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/8a/8ae92c4d4124559ff7accea4530d1303
     projectPath: Library/Artifacts/8a/8ae92c4d4124559ff7accea4530d1303
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/8d/8db4d3ceba2cbb2c8176689bd53035a8
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/8d/8db4d3ceba2cbb2c8176689bd53035a8
     projectPath: Library/Artifacts/8d/8db4d3ceba2cbb2c8176689bd53035a8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/8e/8e1c8af548f36322b8ba7b929899acef
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/8e/8e1c8af548f36322b8ba7b929899acef
     projectPath: Library/Artifacts/8e/8e1c8af548f36322b8ba7b929899acef
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/93/93d0926fad0b54c1b6ad73649d6923a4
-    fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/93/93d0926fad0b54c1b6ad73649d6923a4
-    projectPath: Library/Artifacts/93/93d0926fad0b54c1b6ad73649d6923a4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/94/94a2dacf4347f650e7c8897234d43daf
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/94/94a2dacf4347f650e7c8897234d43daf
     projectPath: Library/Artifacts/94/94a2dacf4347f650e7c8897234d43daf
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/99/99905b83f6694ee7d48e3aa097e28116
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/99/99905b83f6694ee7d48e3aa097e28116
     projectPath: Library/Artifacts/99/99905b83f6694ee7d48e3aa097e28116
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/a3/a31731ef9fb7ef584a9a49a67c0d5284
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/a3/a31731ef9fb7ef584a9a49a67c0d5284
     projectPath: Library/Artifacts/a3/a31731ef9fb7ef584a9a49a67c0d5284
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/aa/aafae011afda8d928e87fb8d301cfec9
-    fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/aa/aafae011afda8d928e87fb8d301cfec9
-    projectPath: Library/Artifacts/aa/aafae011afda8d928e87fb8d301cfec9
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ab/abbe9be38e05cd0fbc0e66f6882cc042
+    fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/ab/abbe9be38e05cd0fbc0e66f6882cc042
+    projectPath: Library/Artifacts/ab/abbe9be38e05cd0fbc0e66f6882cc042
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -434,35 +344,29 @@ MonoBehaviour:
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/af/af0e95d8e33f1d605ac1882451acbefe
     projectPath: Library/Artifacts/af/af0e95d8e33f1d605ac1882451acbefe
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/af/af6586031e66c9a82ad4ff39d92553e7
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/af/af6586031e66c9a82ad4ff39d92553e7
     projectPath: Library/Artifacts/af/af6586031e66c9a82ad4ff39d92553e7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/b2/b2ad0ace3918c439dee0d16b28291010
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/b2/b2ad0ace3918c439dee0d16b28291010
     projectPath: Library/Artifacts/b2/b2ad0ace3918c439dee0d16b28291010
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/b5/b506c4aeeb6193438efb110b00b9b0f0
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/b5/b506c4aeeb6193438efb110b00b9b0f0
     projectPath: Library/Artifacts/b5/b506c4aeeb6193438efb110b00b9b0f0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/b7/b736c20eb3504c49d2840ce852107091
-    fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/b7/b736c20eb3504c49d2840ce852107091
-    projectPath: Library/Artifacts/b7/b736c20eb3504c49d2840ce852107091
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library/Artifacts/bd/bde1a998294c328efb231622c158ca12
-    fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/bd/bde1a998294c328efb231622c158ca12
-    projectPath: Library/Artifacts/bd/bde1a998294c328efb231622c158ca12
+  - path: Library/Artifacts/b6/b62d309346e5c9082ba4a456a79c12c5
+    fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/b6/b62d309346e5c9082ba4a456a79c12c5
+    projectPath: Library/Artifacts/b6/b62d309346e5c9082ba4a456a79c12c5
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -470,59 +374,59 @@ MonoBehaviour:
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/be/bea1529331d4450aff760034938e60d7
     projectPath: Library/Artifacts/be/bea1529331d4450aff760034938e60d7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/bf/bf6c3151e08daf64df503a680bf04fbb
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/bf/bf6c3151e08daf64df503a680bf04fbb
     projectPath: Library/Artifacts/bf/bf6c3151e08daf64df503a680bf04fbb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/c3/c3fc7d2ca44e55123f039af7c3a3f83f
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/c3/c3fc7d2ca44e55123f039af7c3a3f83f
     projectPath: Library/Artifacts/c3/c3fc7d2ca44e55123f039af7c3a3f83f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/c9/c9060d5b5a727bebae3db5008c1bd48e
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/c9/c9060d5b5a727bebae3db5008c1bd48e
     projectPath: Library/Artifacts/c9/c9060d5b5a727bebae3db5008c1bd48e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/cb/cb6266cf67d30d4e42a31c3bf6c01ccf
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/cb/cb6266cf67d30d4e42a31c3bf6c01ccf
     projectPath: Library/Artifacts/cb/cb6266cf67d30d4e42a31c3bf6c01ccf
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/d0/d04fc76f85190abe1a3824a117d6a9fd
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/d0/d04fc76f85190abe1a3824a117d6a9fd
     projectPath: Library/Artifacts/d0/d04fc76f85190abe1a3824a117d6a9fd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/da/da9f5d93f68d0b4620f33865b03377bb
-    fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/da/da9f5d93f68d0b4620f33865b03377bb
-    projectPath: Library/Artifacts/da/da9f5d93f68d0b4620f33865b03377bb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/dd/ddaf2de5abaaaaa9fd83e00ef617676e
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/dd/ddaf2de5abaaaaa9fd83e00ef617676e
     projectPath: Library/Artifacts/dd/ddaf2de5abaaaaa9fd83e00ef617676e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/e0/e0dfc5ae5016c2909a9d25d4ae700243
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/e0/e0dfc5ae5016c2909a9d25d4ae700243
     projectPath: Library/Artifacts/e0/e0dfc5ae5016c2909a9d25d4ae700243
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/e1/e129f2ffdc8dfe277b19f143c62c4442
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/e1/e129f2ffdc8dfe277b19f143c62c4442
     projectPath: Library/Artifacts/e1/e129f2ffdc8dfe277b19f143c62c4442
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e2/e2588011c9b10c7e7184915aca428010
+    fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/e2/e2588011c9b10c7e7184915aca428010
+    projectPath: Library/Artifacts/e2/e2588011c9b10c7e7184915aca428010
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -530,50 +434,50 @@ MonoBehaviour:
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/e7/e7b432408fd0d8b268a49344b9833463
     projectPath: Library/Artifacts/e7/e7b432408fd0d8b268a49344b9833463
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/eb/ebfad777d07187a684e2c0209274b098
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/eb/ebfad777d07187a684e2c0209274b098
     projectPath: Library/Artifacts/eb/ebfad777d07187a684e2c0209274b098
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/f0/f0d3d6ca900100f990f562ecd5af7932
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/f0/f0d3d6ca900100f990f562ecd5af7932
     projectPath: Library/Artifacts/f0/f0d3d6ca900100f990f562ecd5af7932
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/f2/f237dac00b32a2ae8b78c5d904e25446
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/f2/f237dac00b32a2ae8b78c5d904e25446
     projectPath: Library/Artifacts/f2/f237dac00b32a2ae8b78c5d904e25446
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/f5/f5d2fd517c24a0a122bf96c6df1b0498
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/f5/f5d2fd517c24a0a122bf96c6df1b0498
     projectPath: Library/Artifacts/f5/f5d2fd517c24a0a122bf96c6df1b0498
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/f7/f749ebeeef7e8c987e9f6778d4322f21
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/f7/f749ebeeef7e8c987e9f6778d4322f21
     projectPath: Library/Artifacts/f7/f749ebeeef7e8c987e9f6778d4322f21
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/fe/fef88b767afefbba359c7138c3039659
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/fe/fef88b767afefbba359c7138c3039659
     projectPath: Library/Artifacts/fe/fef88b767afefbba359c7138c3039659
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/ff/ff5b27216755be15e85c2fc553a09d74
     fullPath: /Users/bolahenine/FirstGame/Library/Artifacts/ff/ff5b27216755be15e85c2fc553a09d74
     projectPath: Library/Artifacts/ff/ff5b27216755be15e85c2fc553a09d74
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Collab/CollabSnapshot_c1832a7d-a759-4f88-a1cb-9d2ca82f60b8.txt
     fullPath: /Users/bolahenine/FirstGame/Library/Collab/CollabSnapshot_c1832a7d-a759-4f88-a1cb-9d2ca82f60b8.txt
     projectPath: Library/Collab/CollabSnapshot_c1832a7d-a759-4f88-a1cb-9d2ca82f60b8.txt
@@ -590,8 +494,8 @@ MonoBehaviour:
     fullPath: /Users/bolahenine/FirstGame/Library/EditorInstance.json
     projectPath: Library/EditorInstance.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/gitlocks.yaml
     fullPath: /Users/bolahenine/FirstGame/Library/gfu/cache/gitlocks.yaml
     projectPath: Library/gfu/cache/gitlocks.yaml
@@ -613,12 +517,6 @@ MonoBehaviour:
   - path: Library/gfu/cache/repoinfo.yaml
     fullPath: /Users/bolahenine/FirstGame/Library/gfu/cache/repoinfo.yaml
     projectPath: Library/gfu/cache/repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/InspectorExpandedItems.asset
-    fullPath: /Users/bolahenine/FirstGame/Library/InspectorExpandedItems.asset
-    projectPath: Library/InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -646,123 +544,99 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/StateCache/SceneView/d69a67-mainStage.json
-    fullPath: /Users/bolahenine/FirstGame/Library/StateCache/SceneView/d69a67-mainStage.json
-    projectPath: Library/StateCache/SceneView/d69a67-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings/QualitySettings.asset
-    fullPath: /Users/bolahenine/FirstGame/ProjectSettings/QualitySettings.asset
-    projectPath: ProjectSettings/QualitySettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings/TagManager.asset
-    fullPath: /Users/bolahenine/FirstGame/ProjectSettings/TagManager.asset
-    projectPath: ProjectSettings/TagManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings/UnityConnectSettings.asset
-    fullPath: /Users/bolahenine/FirstGame/ProjectSettings/UnityConnectSettings.asset
-    projectPath: ProjectSettings/UnityConnectSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Temp/__Backupscenes/0.backup
     fullPath: /Users/bolahenine/FirstGame/Temp/__Backupscenes/0.backup
     projectPath: Temp/__Backupscenes/0.backup
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityLockfile
-    fullPath: /Users/bolahenine/FirstGame/Temp/UnityLockfile
-    projectPath: Temp/UnityLockfile
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Temp/UnityTempFile-0c9585b25455a483c83337c9f7a3d1fd
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-0c9585b25455a483c83337c9f7a3d1fd
     projectPath: Temp/UnityTempFile-0c9585b25455a483c83337c9f7a3d1fd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-105b698b27ac74fdd969089131aab5ac
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-105b698b27ac74fdd969089131aab5ac
     projectPath: Temp/UnityTempFile-105b698b27ac74fdd969089131aab5ac
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-16ab3b4eca81041f688cb80877abcc4b
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-16ab3b4eca81041f688cb80877abcc4b
     projectPath: Temp/UnityTempFile-16ab3b4eca81041f688cb80877abcc4b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-20228dfab5d8d4ea7bd8f5e30120f62a
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-20228dfab5d8d4ea7bd8f5e30120f62a
     projectPath: Temp/UnityTempFile-20228dfab5d8d4ea7bd8f5e30120f62a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-2361f618be0b04727b83f49ca778e070
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-2361f618be0b04727b83f49ca778e070
     projectPath: Temp/UnityTempFile-2361f618be0b04727b83f49ca778e070
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-2576887fbb31a437ab8714af1a18d4e4
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-2576887fbb31a437ab8714af1a18d4e4
     projectPath: Temp/UnityTempFile-2576887fbb31a437ab8714af1a18d4e4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-266549e6cbaef4ac588d2cb12f97c98d
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-266549e6cbaef4ac588d2cb12f97c98d
     projectPath: Temp/UnityTempFile-266549e6cbaef4ac588d2cb12f97c98d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-29598272847094cfa8c97209f3be1f70
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-29598272847094cfa8c97209f3be1f70
     projectPath: Temp/UnityTempFile-29598272847094cfa8c97209f3be1f70
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-2c24f4ec5455b4dc784e2fbfb4bf32cb
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-2c24f4ec5455b4dc784e2fbfb4bf32cb
     projectPath: Temp/UnityTempFile-2c24f4ec5455b4dc784e2fbfb4bf32cb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-339ee1f9edbb344d295572f79cb5c422
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-339ee1f9edbb344d295572f79cb5c422
     projectPath: Temp/UnityTempFile-339ee1f9edbb344d295572f79cb5c422
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-3422c6d04087943639f9c686fafc40f1
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-3422c6d04087943639f9c686fafc40f1
     projectPath: Temp/UnityTempFile-3422c6d04087943639f9c686fafc40f1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-370dfc1453ef84aeca011e1e5a51b575
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-370dfc1453ef84aeca011e1e5a51b575
     projectPath: Temp/UnityTempFile-370dfc1453ef84aeca011e1e5a51b575
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-37562f7c38be240eb8f35ac4d6a0f96c
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-37562f7c38be240eb8f35ac4d6a0f96c
     projectPath: Temp/UnityTempFile-37562f7c38be240eb8f35ac4d6a0f96c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-3d0019d43a0dc43a890bdd23545ce188
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-3d0019d43a0dc43a890bdd23545ce188
     projectPath: Temp/UnityTempFile-3d0019d43a0dc43a890bdd23545ce188
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-3ec8263a3cc25428d85528a0e9f207b2
+    fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-3ec8263a3cc25428d85528a0e9f207b2
+    projectPath: Temp/UnityTempFile-3ec8263a3cc25428d85528a0e9f207b2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -770,155 +644,161 @@ MonoBehaviour:
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-4044c66039ab84876b726aed435a46a4
     projectPath: Temp/UnityTempFile-4044c66039ab84876b726aed435a46a4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-46daf0e9e2f984d07bcbb413265d41dd
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-46daf0e9e2f984d07bcbb413265d41dd
     projectPath: Temp/UnityTempFile-46daf0e9e2f984d07bcbb413265d41dd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-4926635c0b3d246edb4f701a2d87cfb6
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-4926635c0b3d246edb4f701a2d87cfb6
     projectPath: Temp/UnityTempFile-4926635c0b3d246edb4f701a2d87cfb6
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-4b3f89a5db1c1448580d894275e428ae
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-4b3f89a5db1c1448580d894275e428ae
     projectPath: Temp/UnityTempFile-4b3f89a5db1c1448580d894275e428ae
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-4edcf7b91fc3241f5b6109667d452e95
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-4edcf7b91fc3241f5b6109667d452e95
     projectPath: Temp/UnityTempFile-4edcf7b91fc3241f5b6109667d452e95
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-5586f331c35694a2c974c061732e03f6
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-5586f331c35694a2c974c061732e03f6
     projectPath: Temp/UnityTempFile-5586f331c35694a2c974c061732e03f6
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-5dd2dcc45579c4b7f8e89837748fbae5
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-5dd2dcc45579c4b7f8e89837748fbae5
     projectPath: Temp/UnityTempFile-5dd2dcc45579c4b7f8e89837748fbae5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-65e10dc2b310744d3a51289cd21be9d0
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-65e10dc2b310744d3a51289cd21be9d0
     projectPath: Temp/UnityTempFile-65e10dc2b310744d3a51289cd21be9d0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-662ed68150fd84de595e55b4a58579b5
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-662ed68150fd84de595e55b4a58579b5
     projectPath: Temp/UnityTempFile-662ed68150fd84de595e55b4a58579b5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-6ae5cc94df7d54b2c8ce0a3f27db0e4b
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-6ae5cc94df7d54b2c8ce0a3f27db0e4b
     projectPath: Temp/UnityTempFile-6ae5cc94df7d54b2c8ce0a3f27db0e4b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-6e932794c314e4776a2f8d3a335d8228
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-6e932794c314e4776a2f8d3a335d8228
     projectPath: Temp/UnityTempFile-6e932794c314e4776a2f8d3a335d8228
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-6f890283bc5af48d3822df77cffcf6ee
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-6f890283bc5af48d3822df77cffcf6ee
     projectPath: Temp/UnityTempFile-6f890283bc5af48d3822df77cffcf6ee
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-74671a45acf3b4d8d81af8079f35e5d8
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-74671a45acf3b4d8d81af8079f35e5d8
     projectPath: Temp/UnityTempFile-74671a45acf3b4d8d81af8079f35e5d8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-8031b1ea0f7b1492c8b990f15b66e501
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-8031b1ea0f7b1492c8b990f15b66e501
     projectPath: Temp/UnityTempFile-8031b1ea0f7b1492c8b990f15b66e501
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-85563b47b5b364c3f849df9d65e2ac49
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-85563b47b5b364c3f849df9d65e2ac49
     projectPath: Temp/UnityTempFile-85563b47b5b364c3f849df9d65e2ac49
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-8bc1b419afdc14548bbe073a8347a56c
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-8bc1b419afdc14548bbe073a8347a56c
     projectPath: Temp/UnityTempFile-8bc1b419afdc14548bbe073a8347a56c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-8cc4ecfa4536d4b1ebe0033c05049fe6
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-8cc4ecfa4536d4b1ebe0033c05049fe6
     projectPath: Temp/UnityTempFile-8cc4ecfa4536d4b1ebe0033c05049fe6
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-9135297279d6646159094ce106e7718a
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-9135297279d6646159094ce106e7718a
     projectPath: Temp/UnityTempFile-9135297279d6646159094ce106e7718a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-94e422a4378194356b151fbf1ff0c6b6
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-94e422a4378194356b151fbf1ff0c6b6
     projectPath: Temp/UnityTempFile-94e422a4378194356b151fbf1ff0c6b6
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-98fe716bfd7684f349777606f8c5cd18
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-98fe716bfd7684f349777606f8c5cd18
     projectPath: Temp/UnityTempFile-98fe716bfd7684f349777606f8c5cd18
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-9f19de8c883644c11aed171b2855aba5
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-9f19de8c883644c11aed171b2855aba5
     projectPath: Temp/UnityTempFile-9f19de8c883644c11aed171b2855aba5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-a18e481a970a64975ad2832286d32d3f
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-a18e481a970a64975ad2832286d32d3f
     projectPath: Temp/UnityTempFile-a18e481a970a64975ad2832286d32d3f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-a3e1316c8b60045679f8a3eb72f3121c
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-a3e1316c8b60045679f8a3eb72f3121c
     projectPath: Temp/UnityTempFile-a3e1316c8b60045679f8a3eb72f3121c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-a8c12cfceb9e44a4498bfd42ce6b7ec0
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-a8c12cfceb9e44a4498bfd42ce6b7ec0
     projectPath: Temp/UnityTempFile-a8c12cfceb9e44a4498bfd42ce6b7ec0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-ad5a2225b3fb643c1906b0e2138e957a
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-ad5a2225b3fb643c1906b0e2138e957a
     projectPath: Temp/UnityTempFile-ad5a2225b3fb643c1906b0e2138e957a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-ae4b9fcb57f944afeb52472049d0b106
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-ae4b9fcb57f944afeb52472049d0b106
     projectPath: Temp/UnityTempFile-ae4b9fcb57f944afeb52472049d0b106
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-b2ceaf2662f414fe688143d4ea27b84c
+    fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-b2ceaf2662f414fe688143d4ea27b84c
+    projectPath: Temp/UnityTempFile-b2ceaf2662f414fe688143d4ea27b84c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -926,185 +806,185 @@ MonoBehaviour:
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-b60995d2ce62b4a508ef97caa7644b3f
     projectPath: Temp/UnityTempFile-b60995d2ce62b4a508ef97caa7644b3f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-bc9b1885612ce439da5349dd75d3826b
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-bc9b1885612ce439da5349dd75d3826b
     projectPath: Temp/UnityTempFile-bc9b1885612ce439da5349dd75d3826b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-c1866d112e6ea43dcb4b7e8fb24e6e1a
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-c1866d112e6ea43dcb4b7e8fb24e6e1a
     projectPath: Temp/UnityTempFile-c1866d112e6ea43dcb4b7e8fb24e6e1a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-c19916a87b8f848bbafe8bcefac57232
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-c19916a87b8f848bbafe8bcefac57232
     projectPath: Temp/UnityTempFile-c19916a87b8f848bbafe8bcefac57232
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-c2fdd7c3c168b45aea5c4369f8afc23b
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-c2fdd7c3c168b45aea5c4369f8afc23b
     projectPath: Temp/UnityTempFile-c2fdd7c3c168b45aea5c4369f8afc23b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-c57176290c71746fdb71ad2ebe34bb70
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-c57176290c71746fdb71ad2ebe34bb70
     projectPath: Temp/UnityTempFile-c57176290c71746fdb71ad2ebe34bb70
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-cc28e988f2ffb4fb8b0da0591843a657
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-cc28e988f2ffb4fb8b0da0591843a657
     projectPath: Temp/UnityTempFile-cc28e988f2ffb4fb8b0da0591843a657
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-cf17a365dbb7748129a731a6af8a0094
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-cf17a365dbb7748129a731a6af8a0094
     projectPath: Temp/UnityTempFile-cf17a365dbb7748129a731a6af8a0094
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-cfbb473e29f8a46708280f6edd319153
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-cfbb473e29f8a46708280f6edd319153
     projectPath: Temp/UnityTempFile-cfbb473e29f8a46708280f6edd319153
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-d1fcbc14f6bf040dbb269bbbadd307ba
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-d1fcbc14f6bf040dbb269bbbadd307ba
     projectPath: Temp/UnityTempFile-d1fcbc14f6bf040dbb269bbbadd307ba
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-d2720c619da8e4401ad3f4d8d35bc244
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-d2720c619da8e4401ad3f4d8d35bc244
     projectPath: Temp/UnityTempFile-d2720c619da8e4401ad3f4d8d35bc244
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-d29779bdeee5f4258a96901258303d04
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-d29779bdeee5f4258a96901258303d04
     projectPath: Temp/UnityTempFile-d29779bdeee5f4258a96901258303d04
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-d2a08c2a1ed1b43768ee7a3a762dfbe7
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-d2a08c2a1ed1b43768ee7a3a762dfbe7
     projectPath: Temp/UnityTempFile-d2a08c2a1ed1b43768ee7a3a762dfbe7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-d4486e6477d8d4ceebdffa184d5707fa
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-d4486e6477d8d4ceebdffa184d5707fa
     projectPath: Temp/UnityTempFile-d4486e6477d8d4ceebdffa184d5707fa
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-d5bac7036d7b444f9a60e8f168c7f6ff
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-d5bac7036d7b444f9a60e8f168c7f6ff
     projectPath: Temp/UnityTempFile-d5bac7036d7b444f9a60e8f168c7f6ff
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-e532fee0b9e714af39dc2e646b1c0d96
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-e532fee0b9e714af39dc2e646b1c0d96
     projectPath: Temp/UnityTempFile-e532fee0b9e714af39dc2e646b1c0d96
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-e6e84aabfd0524fce89cc3b7ed17ed2e
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-e6e84aabfd0524fce89cc3b7ed17ed2e
     projectPath: Temp/UnityTempFile-e6e84aabfd0524fce89cc3b7ed17ed2e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-e7f0e163ef9e14a068c2ce247b48beb8
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-e7f0e163ef9e14a068c2ce247b48beb8
     projectPath: Temp/UnityTempFile-e7f0e163ef9e14a068c2ce247b48beb8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-e8afc2ae96fd04d4f8c61e5c83af2eae
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-e8afc2ae96fd04d4f8c61e5c83af2eae
     projectPath: Temp/UnityTempFile-e8afc2ae96fd04d4f8c61e5c83af2eae
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-eacdeb6326de64ac2a754945fc08c124
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-eacdeb6326de64ac2a754945fc08c124
     projectPath: Temp/UnityTempFile-eacdeb6326de64ac2a754945fc08c124
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-eb9b6d8f688c143d88cb570117ece234
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-eb9b6d8f688c143d88cb570117ece234
     projectPath: Temp/UnityTempFile-eb9b6d8f688c143d88cb570117ece234
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-efc9148ccf2e3420ea6eae7b597f6ffe
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-efc9148ccf2e3420ea6eae7b597f6ffe
     projectPath: Temp/UnityTempFile-efc9148ccf2e3420ea6eae7b597f6ffe
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-efcf0e40f309444c7afccd0dd597eb44
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-efcf0e40f309444c7afccd0dd597eb44
     projectPath: Temp/UnityTempFile-efcf0e40f309444c7afccd0dd597eb44
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-f0736b5dc2e594a289b78db5920c83af
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-f0736b5dc2e594a289b78db5920c83af
     projectPath: Temp/UnityTempFile-f0736b5dc2e594a289b78db5920c83af
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-f244d36e3a4954cfe8fac1c048e79676
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-f244d36e3a4954cfe8fac1c048e79676
     projectPath: Temp/UnityTempFile-f244d36e3a4954cfe8fac1c048e79676
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-f24d33c88be6a4475aa73560bfadf9f0
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-f24d33c88be6a4475aa73560bfadf9f0
     projectPath: Temp/UnityTempFile-f24d33c88be6a4475aa73560bfadf9f0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-f2e0133ac067448cc9fd0def01085aba
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-f2e0133ac067448cc9fd0def01085aba
     projectPath: Temp/UnityTempFile-f2e0133ac067448cc9fd0def01085aba
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-f415052d1d7be42f4855a18510cea4d9
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-f415052d1d7be42f4855a18510cea4d9
     projectPath: Temp/UnityTempFile-f415052d1d7be42f4855a18510cea4d9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-f703a7151c2714c369821ea4cc8c170d
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-f703a7151c2714c369821ea4cc8c170d
     projectPath: Temp/UnityTempFile-f703a7151c2714c369821ea4cc8c170d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-f9af487b558e14821982167f80033705
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-f9af487b558e14821982167f80033705
     projectPath: Temp/UnityTempFile-f9af487b558e14821982167f80033705
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-ffa93fa6610ff465b83a5790f82c7fe1
     fullPath: /Users/bolahenine/FirstGame/Temp/UnityTempFile-ffa93fa6610ff465b83a5790f82c7fe1
     projectPath: Temp/UnityTempFile-ffa93fa6610ff465b83a5790f82c7fe1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5

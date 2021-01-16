@@ -11,7 +11,7 @@ public class GreenBallManager : MonoBehaviour
     void GoBall(){     
         greenBall.SetActive(true);   
         greenBall.GetComponent<Renderer>().enabled = true;           // puts the ball in a random spot
-        float rand = Random.Range(5, 10);
+        float rand = Random.Range(9, 12);
         if(rand < 1){
             rb2d.AddForce(new Vector2(40,Random.Range(-15, 15))); // the first number is the speed and the second number is the direction.
         } else {
@@ -28,7 +28,7 @@ public class GreenBallManager : MonoBehaviour
     void Start()
     {
         rb2d = GetComponent<Rigidbody2D>();
-        timeToStart = Random.Range(3, 5);
+        timeToStart = Random.Range(5, 10);
         
         greenBall = GameObject.FindGameObjectWithTag("GreenBall");
         greenBall.GetComponent<Renderer>().enabled = false;
