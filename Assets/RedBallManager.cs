@@ -20,9 +20,9 @@ public class RedBallManager : MonoBehaviour
         redBall.GetComponent<Renderer>().enabled = true;  
         float rand = Random.Range(0, 2);// puts the ball in a random spot
         if(rand < 1){
-            rb2d.AddForce(new Vector2(20,Random.Range(-15, 15))); // the first number is the speed and the second number is the direction.
+            rb2d.AddForce(new Vector2(20,Random.Range(-40, 15))); // the first number is the speed and the second number is the direction.
         } else {
-            rb2d.AddForce(new Vector2(-20, Random.Range(-15, 15)));
+            rb2d.AddForce(new Vector2(-20, Random.Range(-40, 15)));
         }
     }
     void Start()
@@ -31,7 +31,7 @@ public class RedBallManager : MonoBehaviour
         thePlayer2 = GameObject.FindGameObjectWithTag("Player2");
         redBall = GameObject.FindGameObjectWithTag("BallRed");
         rb2d = GetComponent<Rigidbody2D>();
-        timeToStart = Random.Range(5, 9);
+        timeToStart = Random.Range(9, 12);
         redBall.GetComponent<Renderer>().enabled = false; // hides the object rather than disbaling it 
         Invoke("GoBall", timeToStart); // 3 seconds before the start
     }
@@ -39,7 +39,7 @@ public class RedBallManager : MonoBehaviour
     {
         rb2d.velocity = Vector2.zero;
         transform.position = Vector2.zero;
-        timeToStart = Random.Range(8, 10);
+        timeToStart = Random.Range(9, 12);
         Invoke("GoBall", timeToStart);
     }
      
@@ -59,20 +59,13 @@ public class RedBallManager : MonoBehaviour
             y = Random.Range(-2.25f, 2.25f);
             thePlayer2.transform.position = new Vector2(4 , y);
             Reset();
-        }
-        if(col.collider.tag == "LeftWall" || col.collider.tag == "RightWall"){
-            //Debug.Log("hello");
-        }
-       
-       
+        }       
     }
     void OnTriggerEnter2D (Collider2D hitInfo) {
         if (hitInfo.name == "RightWall"){
-            Debug.Log("hello");
             Reset();
        }
        if (hitInfo.name == "LefttWall"){
-            Debug.Log("hello");
             Reset();
        }
     }
@@ -86,14 +79,6 @@ public class RedBallManager : MonoBehaviour
           thePlayer.SetActive(true);
           thePlayer2.SetActive(true);
           
-        }
-
-        if (timeToStart > 0)
-        {
-            timeRemainingToReapper -= Time.deltaTime;
-        }
-        else{
-            redBall.SetActive(true);
         }
     
     }

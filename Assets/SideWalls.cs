@@ -5,6 +5,7 @@ using UnityEngine;
 public class SideWalls : MonoBehaviour
 {
     public static GameObject redBall;
+    public static GameObject greenBall;
     void OnTriggerEnter2D (Collider2D hitInfo) {
         if (hitInfo.name == "Ball")
         {
@@ -16,11 +17,16 @@ public class SideWalls : MonoBehaviour
         {
             redBall.SetActive(false);
         }
+        if (hitInfo.tag == "GreenBall")
+        {
+            greenBall.SetActive(false);
+        }
     }
     // Start is called before the first frame update
     void Start()
     {
         redBall = GameObject.FindGameObjectWithTag("BallRed");
+        greenBall = GameObject.FindGameObjectWithTag("GreenBall");
     }
 
     // Update is called once per frame
