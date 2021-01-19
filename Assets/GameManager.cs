@@ -52,7 +52,14 @@ public class GameManager : MonoBehaviour
             GUI.Label(new Rect(Screen.width / 2 - 150, 200, 2000, 1000), "PLAYER TWO WINS");
             theBall.SendMessage("ResetBall", null, SendMessageOptions.RequireReceiver);    // The ‘SendMessage’ call is something we’ve been using a lot in this chunk of code - it will trigger any function that matches the name that we send it in a class we specify. So when we say theBall.SendMessage("ResetBall"), we tell the program to access the ‘BallControl’ class and trigger the ResetBall() method.
         }
-         
+
+        /*if (GUI.Button(new Rect(Screen.width / 2 - 370, -200, 3000, 3000), "PAUSE"))
+      {
+
+          theBall.SendMessage("PauseGame", 0.5f, SendMessageOptions.RequireReceiver);
+      }
+      */
+
     }
 
     // Update is called once per frame

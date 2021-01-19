@@ -50,7 +50,7 @@ public class CollisionScript1 : MonoBehaviour
             //rb2d.constraints = RigidbodyConstraints2D.FreezeAll;
         }
         if(col.collider.tag == "GreenBall"){
-            timeRemaining1 = 2;
+            timeRemaining1 = 7;
             greenBall.SetActive(false);
             thePlayer.gameObject.transform.localScale += new Vector3(.5f, 2, 1);
         }

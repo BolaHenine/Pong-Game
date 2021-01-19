@@ -53,7 +53,7 @@ public class CollisionScript : MonoBehaviour
             redBall.SetActive(false);
         }
         if(col.collider.tag == "GreenBall"){
-            timeRemaining1 = 2;
+            timeRemaining1 = 7;
             greenBall.SetActive(false);
             thePlayer2.gameObject.transform.localScale += new Vector3(.5f, 2, 1);
            
