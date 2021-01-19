@@ -17,13 +17,31 @@ public class BallControl : MonoBehaviour
             rb2d.AddForce(new Vector2(-30, Random.Range(-15, 15)));
         }
     }
+
+
+    void OnEnable() {
+        GameObject[] otherObjects = GameObject.FindGameObjectsWithTag("BallRed");
+        GameObject[] otherObjects2 = GameObject.FindGameObjectsWithTag("GreenBall");
+
+        foreach (GameObject obj in otherObjects) {
+            Physics2D.IgnoreCollision(obj.GetComponent<Collider2D>(), GetComponent<Collider2D>()); 
+        }
+        foreach (GameObject obj in otherObjects2) {
+            Physics2D.IgnoreCollision(obj.GetComponent<Collider2D>(), GetComponent<Collider2D>()); 
+        }
+    }
+
+
+
     // Start is called before the first frame update
     void Start()
     {
         rb2d = GetComponent<Rigidbody2D>();
+        CircleCollider2D coll = GetComponent<CircleCollider2D> ();
         Invoke("GoBall", 3); // 3 seconds before the start
         theBall = GameObject.FindGameObjectWithTag("Ball");
         redBall = GameObject.FindGameObjectWithTag("BallRed");
+        
     }
     void ResetBall(){
         rb2d.velocity = Vector2.zero;

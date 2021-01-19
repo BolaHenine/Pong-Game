@@ -11,6 +11,7 @@ public class CollisionScript1 : MonoBehaviour
     public static GameObject greenBall;
     public static float timeRemaining1;
     public static Vector2 originalScale;
+    private Rigidbody2D rb2d;
     // Start is called before the first frame update
     void Start()
     {
@@ -19,6 +20,7 @@ public class CollisionScript1 : MonoBehaviour
         redBall = GameObject.FindGameObjectWithTag("BallRed");
         greenBall = GameObject.FindGameObjectWithTag("GreenBall");
         originalScale = thePlayer.transform.localScale;
+        rb2d = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
@@ -29,14 +31,15 @@ public class CollisionScript1 : MonoBehaviour
             timeRemaining -= Time.deltaTime;
         }
         else{
-          thePlayer2.SetActive(true);
+            thePlayer2.SetActive(true);
+            //rb2d.constraints = RigidbodyConstraints2D.None;
        }
        if (timeRemaining1 > 0)
         {
             timeRemaining1 -= Time.deltaTime;
         }
         else{
-          thePlayer.gameObject.transform.localScale = originalScale;
+            thePlayer.gameObject.transform.localScale = originalScale;
        }
     }
 
@@ -44,6 +47,7 @@ public class CollisionScript1 : MonoBehaviour
       if(col.collider.tag == "BallRed"){
             timeRemaining = 1.5f;
             redBall.SetActive(false);
+            //rb2d.constraints = RigidbodyConstraints2D.FreezeAll;
         }
         if(col.collider.tag == "GreenBall"){
             timeRemaining1 = 2;

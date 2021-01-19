@@ -25,14 +25,28 @@ public class GreenBallManager : MonoBehaviour
         timeToStart = Random.Range(9, 12);
         Invoke("GoBall", timeToStart);
     }
+    void OnEnable() {
+        GameObject[] otherObjects = GameObject.FindGameObjectsWithTag("BallRed");
+        GameObject[] otherObjects2 = GameObject.FindGameObjectsWithTag("Ball");
+
+        foreach (GameObject obj in otherObjects) {
+            Physics2D.IgnoreCollision(obj.GetComponent<Collider2D>(), GetComponent<Collider2D>()); 
+        }
+        foreach (GameObject obj in otherObjects2) {
+            Physics2D.IgnoreCollision(obj.GetComponent<Collider2D>(), GetComponent<Collider2D>()); 
+        }
+
+        // rest of OnEnable
+    }
     void Start()
     {
         rb2d = GetComponent<Rigidbody2D>();
         timeToStart = Random.Range(5, 10);
-        
+        CircleCollider2D coll = GetComponent<CircleCollider2D> ();
         greenBall = GameObject.FindGameObjectWithTag("GreenBall");
         greenBall.GetComponent<Renderer>().enabled = false;
         Invoke("GoBall", timeToStart);
+        
     }
     public void OnCollisionEnter2D (Collision2D col) {
         if(col.collider.tag == "Player2"){

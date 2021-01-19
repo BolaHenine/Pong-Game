@@ -20,9 +20,20 @@ public class RedBallManager : MonoBehaviour
         redBall.GetComponent<Renderer>().enabled = true;  
         float rand = Random.Range(0, 2);// puts the ball in a random spot
         if(rand < 1){
-            rb2d.AddForce(new Vector2(20,Random.Range(-40, 15))); // the first number is the speed and the second number is the direction.
+            rb2d.AddForce(new Vector2(40,Random.Range(-40, 15))); // the first number is the speed and the second number is the direction.
         } else {
-            rb2d.AddForce(new Vector2(-20, Random.Range(-40, 15)));
+            rb2d.AddForce(new Vector2(-40, Random.Range(-40, 15)));
+        }
+    }
+    void OnEnable() {
+        GameObject[] otherObjects = GameObject.FindGameObjectsWithTag("Ball");
+        GameObject[] otherObjects2 = GameObject.FindGameObjectsWithTag("GreenBall");
+
+        foreach (GameObject obj in otherObjects) {
+            Physics2D.IgnoreCollision(obj.GetComponent<Collider2D>(), GetComponent<Collider2D>()); 
+        }
+        foreach (GameObject obj in otherObjects2) {
+            Physics2D.IgnoreCollision(obj.GetComponent<Collider2D>(), GetComponent<Collider2D>()); 
         }
     }
     void Start()
@@ -30,11 +41,13 @@ public class RedBallManager : MonoBehaviour
         thePlayer = GameObject.FindGameObjectWithTag("Player");
         thePlayer2 = GameObject.FindGameObjectWithTag("Player2");
         redBall = GameObject.FindGameObjectWithTag("BallRed");
+        CircleCollider2D coll = GetComponent<CircleCollider2D> ();
         rb2d = GetComponent<Rigidbody2D>();
         timeToStart = Random.Range(9, 12);
         redBall.GetComponent<Renderer>().enabled = false; // hides the object rather than disbaling it 
         Invoke("GoBall", timeToStart); // 3 seconds before the start
     }
+    
     void Reset()
     {
         rb2d.velocity = Vector2.zero;

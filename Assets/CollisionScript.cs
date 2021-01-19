@@ -12,6 +12,9 @@ public class CollisionScript : MonoBehaviour
     public static GameObject greenBall;
     public static Vector2 originalScale;
     // Start is called before the first frame update
+
+
+
     void Start()
     {
         thePlayer = GameObject.FindGameObjectWithTag("Player");
@@ -19,6 +22,7 @@ public class CollisionScript : MonoBehaviour
         redBall = GameObject.FindGameObjectWithTag("BallRed");
         greenBall = GameObject.FindGameObjectWithTag("GreenBall");
         originalScale = thePlayer.transform.localScale;
+       
     }
 
     // Update is called once per frame
@@ -46,10 +50,7 @@ public class CollisionScript : MonoBehaviour
     public void OnCollisionEnter2D(Collision2D col){
         if(col.collider.tag == "BallRed"){
             timeRemaining = 1.5f;
-            //timeRemaining1 = 2;
             redBall.SetActive(false);
-            //thePlayer.gameObject.transform.localScale += new Vector3(2, 2, 2);
-           
         }
         if(col.collider.tag == "GreenBall"){
             timeRemaining1 = 2;
